@@ -27,4 +27,10 @@ Geliştirme sürecindedir her gün yeni özellikler eklenip sizlere sunulacaktı
 
 Keylogger tamamlandığında keylogger oluşturabileceğiniz bir arayüz yazıcam.
 
+Hedefler :
+
+  Program açıldığında hiç bir şey göstermemesi.
+  Keylogger Oluşturma arayüzü
+  Otomatik reklam sitesini açıp reklama tıklatan bot
+
 -Fazz
