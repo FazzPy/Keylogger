@@ -29,8 +29,8 @@ Keylogger tamamlandığında keylogger oluşturabileceğiniz bir arayüz yazıca
 
 Hedefler :
 
-  Program açıldığında hiç bir şey göstermemesi.
-  Keylogger Oluşturma arayüzü
-  Otomatik reklam sitesini açıp reklama tıklatan bot
+Program açıldığında hiç bir şey göstermemesi.
+Keylogger Oluşturma arayüzü.
+Otomatik reklam sitesini açıp reklama tıklatan bot.
 
 -Fazz
